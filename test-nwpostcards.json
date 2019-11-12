@@ -1,0 +1,468 @@
+{
+    "type": "FeatureCollection",
+    "features": [ 
+        
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-116.058347,44.966247]
+            },            
+            "properties":{
+                "title": "Payette Lake",
+                "description": "Postcard is of Payette Lake in Idaho | Payette Lake on North Fork of the Payette River, Idaho, is reached over Highway 15 from Boise or Highway 95. Wooded shore lines, crystal-clear water are characteristic of Idaho's vacation land jeweled with excellent fishing lakes and streams. Union Oil Company's Natural Color Scenes of the West. Tour the West this year with 76 gasoline.",
+                
+                "postcard type": "photographic postcards",
+                
+                "date": "1970",
+                "subject": "mountains; lakes; trees; photographic postcards",
+                "location": "Payette Lake",
+                "state": "Idaho",
+                "publisher": "Union Oil Company",
+                
+                "source": "PG 107, Knowles Postcard Collection, University of Idaho Library Special Collections and Archives, http://www.lib.uidaho.edu/special-collections/",
+                "date is approximate": "yes",
+                "identifier": "Postcard_002",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by University of Idaho Library. For other uses beyond educational use, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+                "standardized rights": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+                "original format": "3.5 x 5.5, Color",
+                "type": "Image;StillImage",
+                "format": "application/pdf",
+                "language": "eng",
+                "latitude": "44.966247",
+                "longitude": "-116.058347",
+                
+                
+                "date created": "2013-01-15",
+                "date modified": "2015-09-14",
+                "reference url": "http://digital.lib.uidaho.edu:80/cdm/ref/collection/nwpostcards/id/0",
+                "cdm-id": "0",
+                "contentdm file name": "1.pdf",
+                "contentdm file path": "/nwpostcards/image/1.pdf",
+                "object-id": "nwpostcards0",
+                
+                "reference_url": "https://www.lib.uidaho.edu/digital/postcards/items/.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-116.175733,48.733635]
+            },            
+            "properties":{
+                "title": "Moyie River Bridge, Highway 2",
+                "description": "Postcard is of a bridge near the Moyie Dam near Bonners Ferry, Idaho. | Moyie River Bridge, Highway 2. Moyie River Bridge, 464 ft. high and 1222 ft. long, is located 9 miles northeast of Bonners Ferry on Hwy. 2. This exciting span was finished in 1965, a 3 year project. It is considered to be one of North Idaho's most spectacular highway views. The Bonners Ferry municipal powerhouse is seen at the base of turbulent Moyie Falls. Moyie Falls was a highly regarded scenic point before the bridge was built.",
+                
+                "postcard type": "photographic postcards",
+                "photographer": "Ross Hall",
+                "date": "1970",
+                "subject": "cantilever bridges; truss bridges; rivers; buildings; trees; mountains; photographic postcards",
+                "location": "Moyie River Canyon Bridge; Bonners Ferry; Moyie Dam",
+                "state": "Idaho",
+                "publisher": "Ross Hall Scenics",
+                "publisher location": "Sandpoint, ID",
+                "source": "PG 107, Knowles Postcard Collection, University of Idaho Library Special Collections and Archives, http://www.lib.uidaho.edu/special-collections/",
+                "date is approximate": "yes",
+                "identifier": "Postcard_104",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by University of Idaho Library. For other uses beyond educational use, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+                "standardized rights": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+                "original format": "5.875 x 4, Color",
+                "type": "Image;StillImage",
+                "format": "application/pdf",
+                "language": "eng",
+                "latitude": "48.733635",
+                "longitude": "-116.175733",
+                
+                
+                "date created": "2013-01-15",
+                "date modified": "2015-09-14",
+                "reference url": "http://digital.lib.uidaho.edu:80/cdm/ref/collection/nwpostcards/id/2",
+                "cdm-id": "2",
+                "contentdm file name": "100.pdf",
+                "contentdm file path": "/nwpostcards/image/100.pdf",
+                "object-id": "nwpostcards2",
+                
+                "reference_url": "https://www.lib.uidaho.edu/digital/postcards/items/.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-114.897623,44.178511]
+            },            
+            "properties":{
+                "title": "Little Redfish, Big Redfish Lakes",
+                "description": "Postcard is of Little and Big Redfish Lakes in the Sawtooth Mountains in Idaho.  | Little Redfish - Big Redfish Lakes in the Sawtooth National Forest. Located in the Idaho Primitive Area. The Sawtooth Range is in the background. Camping and lodge facilities are available throughout the area.",
+                
+                "postcard type": "photographic postcards",
+                "photographer": "J.H. Burnett",
+                "date": "1970",
+                "subject": "lakes; mountains; trees; clouds; photographic postcards",
+                "location": "Redfish Lake; Stanley; Sawtooth National Forest",
+                "state": "Idaho",
+                "publisher": "Northwest Curio & Postcard Co.",
+                "publisher location": "Boise, ID",
+                "source": "PG 107, Knowles Postcard Collection, University of Idaho Library Special Collections and Archives, http://www.lib.uidaho.edu/special-collections/",
+                "date is approximate": "yes",
+                "identifier": "Postcard_105",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by University of Idaho Library. For other uses beyond educational use, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+                "standardized rights": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+                "original format": "3.5 x 5.4375, Color",
+                "type": "Image;StillImage",
+                "format": "application/pdf",
+                "language": "eng",
+                "latitude": "44.178511",
+                "longitude": "-114.897623",
+                
+                
+                "date created": "2013-01-15",
+                "date modified": "2015-09-14",
+                "reference url": "http://digital.lib.uidaho.edu:80/cdm/ref/collection/nwpostcards/id/3",
+                "cdm-id": "3",
+                "contentdm file name": "101.pdf",
+                "contentdm file path": "/nwpostcards/image/101.pdf",
+                "object-id": "nwpostcards3",
+                
+                "reference_url": "https://www.lib.uidaho.edu/digital/postcards/items/.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-114.8300695,43.8165704]
+            },            
+            "properties":{
+                "title": "Old Vienna Mine",
+                "description": "Postcard is a photograph from the rubble remains of the mining town of Vienna in the Sawtooth National Forest, Idaho. | The Old Vienna Mine (The Place to go is Idaho) This famous mining area was opened in 1879. By 1883 a twenty stamp mill was turning out between forty and fifty thousand dollars worth of ore per month. It continued this production until 1885 when a Lawsuit closed the property. In 1917 the Old Vienna Co. reacquired control over the Mines, built a new Mill, and camp, but to no avail. The Mill never ran and the area, which had produced over five hundred thousand dollars worth of Silver, sank into ruin.",
+                
+                "postcard type": "photographic postcards",
+                
+                "date": "1970",
+                "subject": "ghost towns; mining towns; buildings; mountains; trees; photogaphic postcards",
+                "location": "Sawtooth National Forest; Smiley",
+                "state": "Idaho",
+                "publisher": "H.W. Steward",
+                "publisher location": "Boise, ID",
+                "source": "PG 107, Knowles Postcard Collection, University of Idaho Library Special Collections and Archives, http://www.lib.uidaho.edu/special-collections/",
+                "date is approximate": "yes",
+                "identifier": "Postcard_106",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by University of Idaho Library. For other uses beyond educational use, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+                "standardized rights": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+                "original format": "3.5 x 5.5, Color",
+                "type": "Image;StillImage",
+                "format": "application/pdf",
+                "language": "eng",
+                "latitude": "43.8165704",
+                "longitude": "-114.8300695",
+                
+                
+                "date created": "2013-01-15",
+                "date modified": "2015-09-14",
+                "reference url": "http://digital.lib.uidaho.edu:80/cdm/ref/collection/nwpostcards/id/4",
+                "cdm-id": "4",
+                "contentdm file name": "102.pdf",
+                "contentdm file path": "/nwpostcards/image/102.pdf",
+                "object-id": "nwpostcards4",
+                
+                "reference_url": "https://www.lib.uidaho.edu/digital/postcards/items/.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-116.197898,43.61022]
+            },            
+            "properties":{
+                "title": "Boise, Idaho",
+                "description": "Postcard is a photograph of the Ada County Courthouse in Boise, Idaho.  | Ada County Courthouse, Boise, Idaho. Ada County is the most populous county in the State of Idaho. The trading center of southwest Idaho it is rich in dairying and agriculture.",
+                
+                "postcard type": "photographic postcards",
+                "photographer": "H.D. Anderson",
+                "date": "1970",
+                "subject": "public buildings; county courthouses; trees; photographic postcards",
+                "location": "Boise",
+                "state": "Idaho",
+                "publisher": "Northwest Curio & Postcard Co.",
+                "publisher location": "Boise, ID",
+                "source": "PG 107, Knowles Postcard Collection, University of Idaho Library Special Collections and Archives, http://www.lib.uidaho.edu/special-collections/",
+                "date is approximate": "yes",
+                "identifier": "Postcard_075",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by University of Idaho Library. For other uses beyond educational use, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+                "standardized rights": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+                "original format": "3.5 x 5.5, Color",
+                "type": "Image;StillImage",
+                "format": "application/pdf",
+                "language": "eng",
+                "latitude": "43.61022",
+                "longitude": "-116.197898",
+                
+                
+                "date created": "2013-01-15",
+                "date modified": "2015-09-14",
+                "reference url": "http://digital.lib.uidaho.edu:80/cdm/ref/collection/nwpostcards/id/5",
+                "cdm-id": "5",
+                "contentdm file name": "103.pdf",
+                "contentdm file path": "/nwpostcards/image/103.pdf",
+                "object-id": "nwpostcards5",
+                
+                "reference_url": "https://www.lib.uidaho.edu/digital/postcards/items/.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-114.958992,44.156593]
+            },            
+            "properties":{
+                "title": "Sawtooth Mts., Idaho",
+                "description": "Postcard of the Sawtooth Mountains in Idaho.  | \"Rugged Sawtooth Peaks\" in the primitive area of the Sawtooth National Forest.",
+                
+                "postcard type": "photographic postcards",
+                "photographer": "Cal Harbert",
+                "date": "1970",
+                "subject": "mountains; snow; clouds; photographic postcards",
+                "location": "Sawtooth National Forest",
+                "state": "Idaho",
+                "publisher": "Northwest Curio & Postcard Co.",
+                "publisher location": "Boise, ID",
+                "source": "PG 107, Knowles Postcard Collection, University of Idaho Library Special Collections and Archives, http://www.lib.uidaho.edu/special-collections/",
+                "date is approximate": "yes",
+                "identifier": "Postcard_107",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by University of Idaho Library. For other uses beyond educational use, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+                "standardized rights": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+                "original format": "3.5 x 5.5, Color",
+                "type": "Image;StillImage",
+                "format": "application/pdf",
+                "language": "eng",
+                "latitude": "44.156593",
+                "longitude": "-114.958992",
+                
+                
+                "date created": "2013-01-15",
+                "date modified": "2015-09-14",
+                "reference url": "http://digital.lib.uidaho.edu:80/cdm/ref/collection/nwpostcards/id/6",
+                "cdm-id": "6",
+                "contentdm file name": "104.pdf",
+                "contentdm file path": "/nwpostcards/image/104.pdf",
+                "object-id": "nwpostcards6",
+                
+                "reference_url": "https://www.lib.uidaho.edu/digital/postcards/items/.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-116.060215,44.324508]
+            },            
+            "properties":{
+                "title": "Payette River north of Smith's Ferry",
+                "description": "Postcard of a bridge over the Payette River north of Smith's Ferry on Highway 55 in Idaho.  |  This graceful span crosses the Payette River north of Smith's Ferry, Idaho, on picturesque State Highway 15. This scenic road winds its way through national forests to McCall, a vacation mecca.",
+                
+                "postcard type": "photographic postcards",
+                "photographer": "Jack Taylor",
+                "date": "1970",
+                "subject": "highways; bridges; trees; rivers; photographic postcards",
+                "location": "Smith's Ferry; Payette River",
+                "state": "Idaho",
+                "publisher": "Northwest Curio & Postcard Co.",
+                "publisher location": "Boise, ID",
+                "source": "PG 107, Knowles Postcard Collection, University of Idaho Library Special Collections and Archives, http://www.lib.uidaho.edu/special-collections/",
+                "date is approximate": "yes",
+                "identifier": "Postcard_108",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by University of Idaho Library. For other uses beyond educational use, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+                "standardized rights": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+                "original format": "3.5 x 5.4375, Color",
+                "type": "Image;StillImage",
+                "format": "application/pdf",
+                "language": "eng",
+                "latitude": "44.324508",
+                "longitude": "-116.060215",
+                
+                
+                "date created": "2013-01-15",
+                "date modified": "2015-09-14",
+                "reference url": "http://digital.lib.uidaho.edu:80/cdm/ref/collection/nwpostcards/id/7",
+                "cdm-id": "7",
+                "contentdm file name": "105.pdf",
+                "contentdm file path": "/nwpostcards/image/105.pdf",
+                "object-id": "nwpostcards7",
+                
+                "reference_url": "https://www.lib.uidaho.edu/digital/postcards/items/.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-114.460205,42.601715]
+            },            
+            "properties":{
+                "title": "Perrine Memorial Bridge",
+                "description": "Postcard of the Perrine Memorial Bridge near Twin Falls, Idaho. | Perrine Memorial Bridge. The Perrine Memorial Bridge on Highway 93 is one of the highest in the United States. This bridge is 1400 feet long and is 476 feet high, crossing the Snake River 3 miles north of Twin Falls.",
+                
+                "postcard type": "photographic postcards",
+                "photographer": "Ken Stone",
+                "date": "1980",
+                "subject": "truss bridges; arch bridges; bridges; rivers; canyons; photographic postcards",
+                "location": "Perrine Memorial Bridge; Twin Falls",
+                "state": "Idaho",
+                "publisher": "Northwest Curio & Postcard Co.",
+                "publisher location": "Boise, ID",
+                "source": "PG 107, Knowles Postcard Collection, University of Idaho Library Special Collections and Archives, http://www.lib.uidaho.edu/special-collections/",
+                "date is approximate": "yes",
+                "identifier": "Postcard_109",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by University of Idaho Library. For other uses beyond educational use, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+                "standardized rights": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+                "original format": "3.4375 x 5.5, Color",
+                "type": "Image;StillImage",
+                "format": "application/pdf",
+                "language": "eng",
+                "latitude": "42.601715",
+                "longitude": "-114.460205",
+                
+                
+                "date created": "2013-01-15",
+                "date modified": "2015-09-14",
+                "reference url": "http://digital.lib.uidaho.edu:80/cdm/ref/collection/nwpostcards/id/8",
+                "cdm-id": "8",
+                "contentdm file name": "106.pdf",
+                "contentdm file path": "/nwpostcards/image/106.pdf",
+                "object-id": "nwpostcards8",
+                
+                "reference_url": "https://www.lib.uidaho.edu/digital/postcards/items/.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-111.32805,44.186066]
+            },            
+            "properties":{
+                "title": "Upper Mesa Falls",
+                "description": "Postcard of Upper Mesa Falls near Ashton, Idaho.  | Upper Mesa Falls. This 106' drop makes one of the largest falls of the mighty Snake River, which flows through Idaho before joining he Columbia River.",
+                
+                "postcard type": "photographic postcards",
+                "photographer": "Bill Empie",
+                "date": "1970",
+                "subject": "waterfalls (natural bodies of water); trees; rivers; rocks; photographic postcards",
+                "location": "Upper Mesa Falls; Ashton",
+                "state": "Idaho",
+                "publisher": "Northwest Curio & Postcard Co.",
+                "publisher location": "Boise, ID",
+                "source": "PG 107, Knowles Postcard Collection, University of Idaho Library Special Collections and Archives, http://www.lib.uidaho.edu/special-collections/",
+                "date is approximate": "yes",
+                "identifier": "Postcard_110",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by University of Idaho Library. For other uses beyond educational use, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+                "standardized rights": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+                "original format": "3.5 x 5.5, Color",
+                "type": "Image;StillImage",
+                "format": "application/pdf",
+                "language": "eng",
+                "latitude": "44.186066",
+                "longitude": "-111.32805",
+                
+                
+                "date created": "2013-01-15",
+                "date modified": "2015-09-14",
+                "reference url": "http://digital.lib.uidaho.edu:80/cdm/ref/collection/nwpostcards/id/9",
+                "cdm-id": "9",
+                "contentdm file name": "107.pdf",
+                "contentdm file path": "/nwpostcards/image/107.pdf",
+                "object-id": "nwpostcards9",
+                
+                "reference_url": "https://www.lib.uidaho.edu/digital/postcards/items/.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-116.581793,45.428937]
+            },            
+            "properties":{
+                "title": "Hell's Canyon",
+                "description": "Postcard is a scene of Hell's Canyon showing the Snake River.  | Hells Canyon. This unusual Aerial of Hells Canyon of the Snake River highlights 7,000 foot canyon walls of America's deepest gorge.",
+                
+                "postcard type": "photographic postcards",
+                "photographer": "Harold Peters",
+                "date": "1960",
+                "subject": "rivers; canyons; mountains; photographic postcards",
+                "location": "Hells Canyon; Snake River",
+                "state": "Idaho",
+                "publisher": "Northwest Curio & Postcard Co.",
+                "publisher location": "Boise, ID",
+                "source": "PG 107, Knowles Postcard Collection, University of Idaho Library Special Collections and Archives, http://www.lib.uidaho.edu/special-collections/",
+                "date is approximate": "yes",
+                "identifier": "Postcard_111",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by University of Idaho Library. For other uses beyond educational use, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+                "standardized rights": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+                "original format": "3.5 x 5.5, Color",
+                "type": "Image;StillImage",
+                "format": "application/pdf",
+                "language": "eng",
+                "latitude": "45.428937",
+                "longitude": "-116.581793",
+                
+                
+                "date created": "2013-01-15",
+                "date modified": "2015-09-14",
+                "reference url": "http://digital.lib.uidaho.edu:80/cdm/ref/collection/nwpostcards/id/10",
+                "cdm-id": "10",
+                "contentdm file name": "108.pdf",
+                "contentdm file path": "/nwpostcards/image/108.pdf",
+                "object-id": "nwpostcards10",
+                
+                "reference_url": "https://www.lib.uidaho.edu/digital/postcards/items/.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-116.200194,43.617153]
+            },            
+            "properties":{
+                "title": "Steunenberg Statue, Boise, Idaho",
+                "description": "Postcard is a photo of the Steunenberg Statue facing the Idaho State Capitol building in Boise, Idaho.  |  Steunenberg Statue, Boise, Idaho. The statue stands across Jefferson Street facing the main steps to the Idaho State Capitol. The Commission was organized in 1907 with W.A. Coughanour as president to erect the statue, it was dedicated in 1927. Frank Steunenberg served as Governor of Idaho from 1897 to 1900. He was assassinated in 1905.",
+                
+                "postcard type": "photographic postcards",
+                
+                "date": "1970",
+                "subject": "statues; buildings; trees; capitols; photogaphic postcards",
+                "location": "Boise",
+                "state": "Idaho",
+                "publisher": "H.W. Steward",
+                "publisher location": "Boise, ID",
+                "source": "PG 107, Knowles Postcard Collection, University of Idaho Library Special Collections and Archives, http://www.lib.uidaho.edu/special-collections/",
+                "date is approximate": "yes",
+                "identifier": "Postcard_076",
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by University of Idaho Library. For other uses beyond educational use, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+                "standardized rights": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+                "original format": "5.4375 x 3.5, Color",
+                "type": "Image;StillImage",
+                "format": "application/pdf",
+                "language": "eng",
+                "latitude": "43.617153",
+                "longitude": "-116.200194",
+                
+                
+                "date created": "2013-01-15",
+                "date modified": "2015-09-14",
+                "reference url": "http://digital.lib.uidaho.edu:80/cdm/ref/collection/nwpostcards/id/11",
+                "cdm-id": "11",
+                "contentdm file name": "109.pdf",
+                "contentdm file path": "/nwpostcards/image/109.pdf",
+                "object-id": "nwpostcards11",
+                
+                "reference_url": "https://www.lib.uidaho.edu/digital/postcards/items/.html"
+            }
+        }
+        ]
+}
